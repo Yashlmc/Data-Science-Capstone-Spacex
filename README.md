@@ -47,4 +47,4 @@ All models were tuned using **GridSearchCV** and tested on unseen data.
 
 **Author:** Yash Pandey
 
-**Connect:** [LinkedIn]() | [Email]()
+**Connect:** [LinkedIn](https://www.linkedin.com/in/yash-pandey-151961213/) | [Email](pandeyyash25@gmail.com)
